@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b41f99ab83e61210ecc797efeeaad340" label="Notes" max_length="40" name="x_snc_createnotes_notes" type="collection">
+        <element label="id" max_length="10" name="id" type="integer"/>
+        <element label="Note" mandatory="true" max_length="20" name="note" type="string"/>
+        <element label="number" max_length="10" name="number" type="integer"/>
+    </element>
+</database>
